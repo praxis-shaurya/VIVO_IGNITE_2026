@@ -1,6 +1,4 @@
 # VIVO_IGNITE_2026
 ## AVROD - AUTOMATED VERIFICATION OF RESTRICTED OPERATOR DESCENT
 
-Contains all the code (ino files)z
 
-Timeline of the PROJECT

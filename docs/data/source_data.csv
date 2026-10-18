@@ -1,0 +1,23 @@
+Dataset,Category,Value,Source / note
+Yearly reported deaths,2021,62,"Rajya Sabha Q.3023 annexure, 18 Mar 2026"
+Yearly reported deaths,2022,88,"Rajya Sabha Q.3023 annexure, 18 Mar 2026"
+Yearly reported deaths,2023,65,"Rajya Sabha Q.3023 annexure, 18 Mar 2026"
+Yearly reported deaths,2024,54,"Rajya Sabha Q.3023 annexure, 18 Mar 2026"
+Yearly reported deaths,2025,46,"Rajya Sabha Q.3023 annexure, 18 Mar 2026"
+Statewise deaths 2021-2025,Maharashtra,53,"Rajya Sabha Q.3023 annexure, 18 Mar 2026"
+Statewise deaths 2021-2025,Haryana,43,"Rajya Sabha Q.3023 annexure, 18 Mar 2026"
+Statewise deaths 2021-2025,Tamil Nadu,38,"Rajya Sabha Q.3023 annexure, 18 Mar 2026"
+Statewise deaths 2021-2025,Uttar Pradesh,35,"Rajya Sabha Q.3023 annexure, 18 Mar 2026"
+Statewise deaths 2021-2025,Delhi,26,"Rajya Sabha Q.3023 annexure, 18 Mar 2026"
+Statewise deaths 2021-2025,Gujarat,25,"Rajya Sabha Q.3023 annexure, 18 Mar 2026"
+Statewise deaths 2021-2025,Rajasthan,24,"Rajya Sabha Q.3023 annexure, 18 Mar 2026"
+Statewise deaths 2021-2025,West Bengal,13,"Rajya Sabha Q.3023 annexure, 18 Mar 2026"
+Statewise deaths 2021-2025,Karnataka,12,"Rajya Sabha Q.3023 annexure, 18 Mar 2026"
+Statewise deaths 2021-2025,Punjab,12,"Rajya Sabha Q.3023 annexure, 18 Mar 2026"
+NAMASTE snapshot Apr 2026,Workers profiled,90942,PIB release 23 Apr 2026
+NAMASTE snapshot Apr 2026,Workers validated,89248,PIB release 23 Apr 2026
+NAMASTE snapshot Apr 2026,Workers provided PPE kits,87037,PIB release 23 Apr 2026
+NAMASTE snapshot Apr 2026,Workers covered by health insurance schemes,76247,PIB release 23 Apr 2026
+NAMASTE validated worker snapshots,31 Dec 2025,89114,PIB snapshots: 31 Dec 2025 / 23 Apr 2026 / 22 Sep 2026
+NAMASTE validated worker snapshots,23 Apr 2026,89248,PIB snapshots: 31 Dec 2025 / 23 Apr 2026 / 22 Sep 2026
+NAMASTE validated worker snapshots,22 Sep 2026,90186,PIB snapshots: 31 Dec 2025 / 23 Apr 2026 / 22 Sep 2026
